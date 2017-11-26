@@ -3,6 +3,18 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import VueAgile from 'vue-agile'
+import AtComponents from 'at-ui'
+import 'at-ui-style'    // Import CSS
+import VueCarousel from 'vue-carousel'
+import VueAwesomeSwiper from 'vue-awesome-swiper'
+
+require('swiper/dist/css/swiper.css')
+
+Vue.use(VueCarousel)
+Vue.use(AtComponents)
+Vue.use(VueAgile)
+Vue.use(VueAwesomeSwiper)
 
 Vue.config.productionTip = false
 
