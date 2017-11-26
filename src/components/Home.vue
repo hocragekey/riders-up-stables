@@ -29,31 +29,41 @@
 
     <div style="padding-top:10px;" class="row at-row">
         <div class="col-md-24">
-          <h1>Welcome to Rider's Up Stables!</h1>
-      </div>
-    </div>
-
-    <div class="row at-row">
-        <div class="col-md-24">
-          <h2>We are a full service equistrian stable located in the beautiful West Palm area offering boarding in our beautiful 13 stall barn, horseback 
-              riding lessons, boarding, trail rides, and other services to help give your horse a home.</h2>
+          <h1 style="font-size:24px">Welcome to Rider's Up Stables!</h1>
       </div>
     </div>
 
     <div style="padding-top:10px;" class="row at-row">
-      <div class="col-md-8">
-        <h2>Boarding</h2>
-        <p>We offer partial and full boarding at both a seasonal or annual frequency.  We have a beautiful 13 stall barn with an official size mirrored dressage arena, round pen, and grass paddocks.</p>
+        <div class="col-md-2"></div>
+        <div class="col-md-20">
+          <p style="font-size:18px"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       </div>
-      <div class="col-md-8">
-        <h2>Lessons</h2>
-        <p>We offer both english and western lessons to individuals or groups.  We also offer horse grooming and tacking lessons all by our very experienced in house trainer.</p>
+      <div class="col-md-2"></div>
+    </div>
+
+    <div style="padding-top:10px;" class="row at-row">
+        <div class="col-md-1"></div>
+      <div class="boarding-grooming col-md-11">
+          <div style="background-color:black"><h2 style="color:white;">Boarding / Grooming</h2>
+        <p style="color:white;">We offer partial and full boarding at both a seasonal or annual frequency.  We have a beautiful 13 stall barn with an official size mirrored dressage arena, round pen, and grass paddocks.</p>
       </div>
-      <div class="col-md-8">
+        
+      </div>
+      <div class="col-md-12">
         <h2>Trail Rides</h2>
         <p>We have beautfiul locations for small group trail rides. </p>
       </div>
+    </div>
 
+    <div style="padding-top:10px;" class="row at-row">
+      <div class="col-md-12">
+        <h2>Another Service</h2>
+        
+      </div>
+      <div class="col-md-12">
+        <h2>Another Service</h2>
+        <p>We have beautfiul locations for small group trail rides. </p>
+      </div>
     </div>
 
     <div style="padding-top:20px;margin-top:20px;background-color:#2F2C2C;height:400px;" class="row at-row">
@@ -95,6 +105,11 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" type="text/scss" scoped>
-
+    .boarding-grooming {
+        background-image: url('./../assets/imgs/DSC09881.jpg');
+        height: 350px;
+        padding-top: 280px;
+        color: white;
+    }
 
 </style>
