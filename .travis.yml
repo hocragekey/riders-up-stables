@@ -12,4 +12,4 @@ deploy:
   skip_cleanup: true
   acl: public_read
   on:
-    repo: hocragekey/personal-web
+    repo: hocragekey/riders-up-stables
