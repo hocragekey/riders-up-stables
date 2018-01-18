@@ -37,87 +37,181 @@
   <div class="row at-row main-section">
     <div class="col-md-24">
       <h2>Our Primary Goal:  A fun and safe riding experience</h2>
-    </div>
-  </div>
-
-  <div class="row at-row main-section">
-    <div class="col-md-2"></div>
-    <div class="col-md-20">
-      <p class="big-p">Our facility is a 13 stall barn on 5 acres with a house, an official size dressage arena with GT Grade #1 footing and soon to have a roof constructed, foot mirrors, a viewing gazebo, and a round pen. All stalls are large with pads, water to each,
-        fans and fly spray system. We have two air-conditioned tack rooms, one with a washer and dryer. There are multiple paddocks, of various sizes to suit your needs. We have a manager on site 24/7. Our horses enjoy a safe, comfortable and relaxed
-        environment in the barn and in the paddocks.</p>
-    </div>
-    <div class="col-md-2"></div>
-  </div>
-
-  <div class="row at-row main-section">
-    <div class="col-md-1"></div>
-    <div class="boarding-grooming col-md-10">
-      <div style="background-color:black">
-        <h3 style="color:white;">Boarding / Grooming</h3>
-        <p style="color:white;">We offer partial and full boarding at both a seasonal or annual frequency. We have a beautiful 13 stall barn with an official size mirrored dressage arena, round pen, and grass paddocks.</p>
-      </div>
-
-    </div>
-    <div class="col-md-1"></div>
-    <div class="boarding-grooming col-md-11">
-      <div style="background-color:black">
-        <h3 style="color:white;">Boarding / Grooming</h3>
-        <p style="color:white;">We offer partial and full boarding at both a seasonal or annual frequency. We have a beautiful 13 stall barn with an official size mirrored dressage arena, round pen, and grass paddocks.</p>
-      </div>
-
-    </div>
-  </div>
-
-  <div class="row at-row main-section">
-    <div class="col-md-1"></div>
-    <div class="boarding-grooming col-md-10">
-      <div style="background-color:black">
-        <h3 style="color:white;">Boarding / Grooming</h3>
-        <p style="color:white;">We offer partial and full boarding at both a seasonal or annual frequency. We have a beautiful 13 stall barn with an official size mirrored dressage arena, round pen, and grass paddocks.</p>
-      </div>
-
-    </div>
-    <div class="col-md-1"></div>
-    <div class="boarding-grooming col-md-10">
-      <div style="background-color:black">
-        <h3 style="color:white;">Boarding / Grooming</h3>
-        <p style="color:white;">We offer partial and full boarding at both a seasonal or annual frequency. We have a beautiful 13 stall barn with an official size mirrored dressage arena, round pen, and grass paddocks.</p>
-      </div>
-
+      <p class="big-p">Our facility has 21 high quality stalls on 5 acres with a house, an official size dressage arena with GT Grade #1 footing, foot mirrors, a viewing gazebo, and a round pen.  All stalls are large with pads, water to each, fans and fly spray system.  We have two air-conditioned tack rooms, one with a washer and dryer.  There are multiple paddocks, of various sizes to suit your needs.  We have a manager on site 24/7.  Our horses enjoy a safe, comfortable and relaxed environment in the barn and in the paddocks.</p>
     </div>
   </div>
 
   <div class="row at-row main-section">
     <div class="col-md-24">
       <h1>Location</h1>
-      <p>
+      <p class="big-p">
          We are in the Wildwood Equestrian Community, 19498 Green Grove Ct, Loxahatchee, Florida 33470. hacking distance to White Fences, and a 20 minute drive to Global in Wellington.
-      </p>
+      </p><br/><br />
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6854.252042393191!2d-80.35697084836086!3d26.742646915653953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9315a5d4f40ed%3A0x61840c7650dc3c07!2s19498+Green+Grove+Ct%2C+Loxahatchee%2C+FL+33470!5e0!3m2!1sen!2sus!4v1512527705005" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
   </div>
 
   <div class="row at-row main-section">
     <div class="col-md-24">
-      <h1>Our Staff</h1>
+      <h1>Boarding / Grooming</h1>
     </div>
+  </div>
 
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <p class="big-p">We would like to build quality relationships with our boarders and their horses so we may provide the best of care.  We offer Full Board:  Seasonal: $1800/mo Annual: $850/mo and Dry Board: Seasonal: $850/mo Annual: $500/mo</p>
+     </div>
+    <div class="col-md-2"></div>
+    
+    <div class="col-md-8">
+        <div class="boarding-grooming"></div>
     </div>
-    <div class="row at-row">
-      <div class="col-md-12">
-        <h3>Paul Rubin</h3>
-        <p>
-          Blurb about Warren
-        </p>
-      </div>
-      <div class="col-md-12">
-        <h3>Caryl Lebonitte</h3>
-        <p>
-          Blurb about Caryl
-        </p>
-      </div>
+    <div class="col-md-2"></div>
+  </div>
 
+  <div class="row at-row main-section">
+    <div class="col-md-24">
+      <h1>Lessons</h1>
     </div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="lessons"></div>
+    </div>
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <p class="big-p">We have an experienced trainer, Daniel, who is available for lessons in Dressage, Hunter Jumper, as well as Western Pleasure, the rate is $60/hr. Our trainer can also break and train horses fee commensurate with specific needs.  We also teach horse care, frooming, tacking and health care pointers.</p>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-24">
+      <h1>Trail Rides</h1>
+    </div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <p class="big-p">We have trail rides on and around the property as well as miles of trails along a canal.  We also have access to white fences where there is a 3 miles loop.  Our guided rides are $50/hour, $80 for 2 hours.</p>
+     </div>
+    <div class="col-md-2"></div>
+    
+    <div class="col-md-8">
+        <div class="trail-rides"></div>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-24">
+      <h1>House on Property</h1>
+    </div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="boarding-grooming"></div>
+    </div>
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <p class="big-p">Our house is a 3 bed/2 bath facility with washer and dyer and a salt water pool.  In season it rents for $300 a month plus utilities.  The season runs from Dec 1st to April 30th.  Off season it can be rented by the week or weekend - call for rates.</p>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+
+  <div class="row at-row main-section">
+    <div class="col-md-24">
+      <h1>Staff</h1>
+    </div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <p class="big-p">Our staff includes owners: Paul and Caryl, our trainer Daniel; our stable manager Skylar; and Kenna, Michaela, and Hailey, our assistants</p>
+     </div>
+    <div class="col-md-2"></div>
+    
+    <div class="col-md-8">
+        <div class="boarding-grooming"></div>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-24">
+      <h1>Our Horses</h1>
+    </div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="boarding-grooming"></div>
+    </div>
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <h3>Papa</h3><p class="big-p">Our star retired Thoroughbred, 13 years old who is gentle and easy and who has been trained for spcial needs children, lessons and trail rides.</p>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <h3>Gina</h3><p class="big-p">An 11 year retired Thoroughbred who loves lessons and trails and is full of spunk for the experienced rider.</p>
+     </div>
+    <div class="col-md-2"></div>
+    
+    <div class="col-md-8">
+        <div class="boarding-grooming"></div>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="golly"></div>
+    </div>
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <h3>Golly</h3><p class="big-p">An 11 year old retired Thoroughbred who loves lessons and is beautiful for photography.</p>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <h3>Apollo</h3><p class="big-p">A 5 years old Arabian with a prance and dancing gait and a joy to ride.</p>
+     </div>
+    <div class="col-md-2"></div>
+    
+    <div class="col-md-8">
+        <div class="boarding-grooming"></div>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+
+  <div class="row at-row main-section">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="boarding-grooming"></div>
+    </div>
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+      <h3>Tilly</h3><p class="big-p">Our almost 3 years old Thoroughbred with her blond mane and long legs is still in training.</p>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
 
   <div class="row at-row footer">
     <div class="col-md-8">
@@ -135,7 +229,7 @@
     </div>
     <div class="col-md-8">
       <h3 class="dark-bg-text">Social Media</h3><br />
-      <p class="dark-bg-text">We have beautfiul locations for small group trail rides. </p>
+      <p class="dark-bg-text"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i> <i style="padding-left:10px;" class="fa fa-twitter-square fa-3x" aria-hidden="true"></i></p>
     </div>
   </div>
 </div>
@@ -166,6 +260,28 @@ export default {
     height: 350px;
     padding-top: 280px;
     color: white;
+    background-repeat: no-repeat;
+}
+
+.lessons {
+    background-image: url('./../assets/imgs/IMG_0027.jpg');
+    padding-top: 280px;
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.trail-rides {
+    background-image: url('./../assets/imgs/DSC00756.jpg');
+    padding-top: 280px;
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.golly {
+    background-image: url('./../assets/imgs/DSC00750.jpg');
+    padding-top: 280px;
+    color: white;
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -178,6 +294,15 @@ h2 {
   font-weight:100;
 }
 
+h3 {
+  font-size:22px;
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .slider-div {
   overflow: hidden;
 }
@@ -187,6 +312,11 @@ h2 {
 }
 
 .big-p {
+  font-size:18px;
+  padding-top: 30px;
+}
+
+.big-p-no-pad {
   font-size:18px;
 }
 
